@@ -27,7 +27,7 @@
 
 ### 👋 Halo, saya Natalius!
 - 🎓 Mahasiswa **Sistem Informasi**
-- 🌐 Kunjungi web portofolio saya di **[link-portofolio-kamu.com](https://iyusztempest.web.id)**
+- 🌐 Kunjungi web portofolio saya di **[My Portofolio](https://iyusztempest.web.id)**
 - 🤖 Fokus ngembangin **WhatsApp Bot** (Node.js / Baileys) & eksperimen otomasi
 - 🔧 Suka ngoprek sistem ringan dan optimasi performa hardware/software
 
