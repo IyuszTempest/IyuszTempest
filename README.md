@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:89b4fa&height=180&section=header&text=IyuszTempest&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Bot%20Developer&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A437A,100:66437A&height=180&section=header&text=IyuszTempest&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Bot%20Developer&descAlignY=58&descSize=16%22%20width=%22100%" />
 
   <!-- Badge Portofolio & Sosial Media -->
   <p>
@@ -50,3 +50,4 @@
 
 ### 🚀 Featured Projects
 - **[Kuroyami-Ltd](https://github.com/IyuszTempest/Kuroyami-Ltd)** — Multi-device WhatsApp Bot modular dengan integrasi AI & berbagai fitur utilitas.
+- **[Euphy-MD](https://github.com/IyuszTempest/EUPHY-MD)** — Multi-device WhatsApp Bot.
