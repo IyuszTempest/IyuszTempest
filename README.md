@@ -5,7 +5,7 @@
   <!-- Badge Portofolio & Sosial Media -->
   <p>
     <a href="https://iyusztempest.web.id" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=89b4fa" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/_Portfolio-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=89b4fa" alt="Portfolio" />
     </a>
     <a href="https://wa.me/6282255810534" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-1e1e2e?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
